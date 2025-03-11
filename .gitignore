@@ -1,0 +1,22 @@
+# Ignore all .iml files
+*.iml
+
+# Ignore the .idea folder (Android Studio settings)
+.idea/
+
+# Ignore Gradle files
+.gradle/
+/build/
+
+# Ignore local configuration
+local.properties
+
+# Ignore log files
+*.log
+
+# Ignore APKs and generated files
+*.apk
+*.aab
+
+# Ignore MacOS metadata files
+.DS_Store
